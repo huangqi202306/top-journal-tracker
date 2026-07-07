@@ -1,4 +1,0 @@
-interface:
-  display_name: "Top Journal Tracker"
-  short_description: "Track and summarize frontier papers from top journals"
-  default_prompt: "Use $top-journal-tracker to generate a Chinese weekly digest of recent top-journal papers."
